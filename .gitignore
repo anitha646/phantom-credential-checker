@@ -1,0 +1,96 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (if using npm/node)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Build and Distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Sensitive Information
+config/secrets.js
+config/database.yml
+credentials.json
+
+# User Uploaded Files (if applicable)
+uploads/
+user-data/
+
+# Cache
+.cache/
+*.cache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/

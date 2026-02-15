@@ -1,0 +1,32 @@
+CONFIDENTIAL BANKING INFORMATION
+================================
+
+Customer Information:
+Name: John Doe
+Email: john.doe@example.com
+Phone: (555) 123-4567
+
+Banking Details:
+Account Number: 123456789012
+Routing Number: 021000021
+Credit Card: 4532-1234-5678-9010
+CVV: 123
+
+Online Banking Credentials:
+Username: johndoe2024
+Password: MySecretPass123
+Security Question: What is your mother's maiden name?
+Answer: Smith
+
+API Access:
+API Key: FAKE_STRIPE_KEY_REDACTED_FOR_SECURITY
+Secret Token: xoxb-FAKE-SLACK-TOKEN-REDACTED-FOR-SECURITY
+
+Additional Passwords:
+- Email Password: password123
+- Backup Password: admin@2024
+
+Social Security Number: 123-45-6789
+
+IMPORTANT: This is a FAKE document for demo purposes only.
+All information is fabricated and should not be used for any real transactions.
